@@ -3,7 +3,7 @@
 # McDaniel
 # October 2017
 #
-# To stand up a pristine single-server instance of Open edX Ginkgo.1
+# To stand up a pristine single-server instance of Open edX Hawthorn.master
 # this is a modification of the generic instructions from:
 #   Native Open edX Ubuntu 16.04 64 bit Installation
 #   https://openedx.atlassian.net/wiki/spaces/OpenOPS/pages/146440579/Native+Open+edX+Ubuntu+16.04+64+bit+Installation
